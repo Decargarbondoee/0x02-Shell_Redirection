@@ -1,2 +1,1 @@
-my first readme
-my first readme
+Display the content of /etc/passwd and /etc/hosts
